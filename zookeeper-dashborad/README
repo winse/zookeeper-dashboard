@@ -1,0 +1,10 @@
+version 0.1.0
+
+2012-06-01
+	znode的CUD[R]
+
+2012-05-30 
+	1/ servers path的CRUD
+	2/ 客户端连接到servers
+	3/ 查看znode（孩子，data），以及znode状态 
+	4/ 查看servers的状态，用于监控ZooKeeperServer服务器（4字母命令）
