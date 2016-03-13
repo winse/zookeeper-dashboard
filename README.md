@@ -1,18 +1,14 @@
+**Use <https://github.com/winse/zk-browser> instead!!!**
+
 zookeeper-dashboard
 ===================
 
-
-
 zookeeper znode CRUD, and ...
 
+* IDE: springsource\sts-2.8.1.RELEASE
+* Framework: grails-2.0.0
 
+check-outåï¼Œé¦–å…ˆéœ€è¦refreshä¸€ä¸‹ä¾èµ–ã€‚`zookeeper-dashborad` | å³é”® | `Grails Tools` | `Refresh Dependencies`ã€‚
 
-IDE£º		springsource\sts-2.8.1.RELEASE
+å¯è¿è¡Œçš„warç¨‹åºï¼š https://raw.github.com/winse/zookeeper-dashboard/master/zookeeper-dashborad-0.1.5.war
 
-Framework£º	grails-2.0.0
-
-
-
-check-outºó£¬Ê×ÏÈĞèÒªrefreshÒ»ÏÂÒÀÀµ¡£`zookeeper-dashborad` | ÓÒ¼ü | `Grails Tools` | `Refresh Dependencies`¡£
-
-¿ÉÔËĞĞµÄwar³ÌĞò£º https://raw.github.com/winse/zookeeper-dashboard/master/zookeeper-dashborad-0.1.5.war
